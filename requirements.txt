@@ -1,0 +1,12 @@
+The Raft Rest Message Queue program is developed in python3 environment.
+
+Required modules include:
+
+*flask
+*threading
+*time
+*server
+*requests
+*sys
+*json
+*random
